@@ -1,2 +1,2 @@
 # sem_seg_pytorch
-I apologize for not being able to reproduce the semantic segmentation keras code in pytorch.
+This code was accomplished in Google Colabs. Thank you sir for the second chance.
